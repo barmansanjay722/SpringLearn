@@ -1,0 +1,28 @@
+2022-12-26 14:52:59 [restartedMain] INFO  c.e.s.SpringbootLoggingApplication -
+                Starting SpringbootLoggingApplication using Java 19.0.1 with PID 21600 (D:\Sanjay\Springboot\springbootLogging\springbootLogging\target\classes started by mindit sys in D:\Sanjay\Springboot\springbootLogging\springbootLogging)
+2022-12-26 14:52:59 [restartedMain] DEBUG c.e.s.SpringbootLoggingApplication -
+                Running with Spring Boot v3.0.1, Spring v6.0.3
+2022-12-26 14:52:59 [restartedMain] INFO  c.e.s.SpringbootLoggingApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2022-12-26 14:53:00 [restartedMain] INFO  c.e.s.SpringbootLoggingApplication -
+                Started SpringbootLoggingApplication in 1.977 seconds (process running for 2.65)
+2022-12-26 14:53:35 [http-nio-8080-exec-1] DEBUG c.e.s.SpringbootLoggingApplication -
+                Request Sanjay
+2022-12-26 14:53:35 [http-nio-8080-exec-1] DEBUG c.e.s.SpringbootLoggingApplication -
+                Response Hi Sanjay wellcome
+2022-12-26 14:53:56 [http-nio-8080-exec-6] DEBUG c.e.s.SpringbootLoggingApplication -
+                Request test
+2022-12-26 14:54:16 [restartedMain] INFO  c.e.s.SpringbootLoggingApplication -
+                Starting SpringbootLoggingApplication using Java 19.0.1 with PID 20580 (D:\Sanjay\Springboot\springbootLogging\springbootLogging\target\classes started by mindit sys in D:\Sanjay\Springboot\springbootLogging\springbootLogging)
+2022-12-26 14:54:16 [restartedMain] DEBUG c.e.s.SpringbootLoggingApplication -
+                Running with Spring Boot v3.0.1, Spring v6.0.3
+2022-12-26 14:54:16 [restartedMain] INFO  c.e.s.SpringbootLoggingApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2022-12-26 14:54:18 [restartedMain] INFO  c.e.s.SpringbootLoggingApplication -
+                Started SpringbootLoggingApplication in 1.772 seconds (process running for 2.337)
+2022-12-26 14:54:28 [http-nio-8080-exec-1] DEBUG c.e.s.SpringbootLoggingApplication -
+                Request Sanjay
+2022-12-26 14:54:28 [http-nio-8080-exec-1] DEBUG c.e.s.SpringbootLoggingApplication -
+                Response Hi Sanjay wellcome
+2022-12-26 14:54:36 [http-nio-8080-exec-4] DEBUG c.e.s.SpringbootLoggingApplication -
+                Request test
